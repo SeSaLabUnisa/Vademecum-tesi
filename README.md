@@ -48,28 +48,40 @@ Il tirocinio e il lavoro di tesi in vista della laurea non sono la stessa cosa f
 
 ### Tirocinio <a name="tirocinio"></a>
 
-Se sei uno studente iscritto al **Corso di Laurea triennale** avrai sicuramente bisogno di completare un certo numero di CFU di tirocinio. Per i regolamenti attuali, il piano di studio prevede 11 CFU, corrispondenti a 275 ore di tirocinio da svolgere in modalità interna o esterna.
+Se sei uno studente iscritto al **Corso di Laurea Triennale** avrai sicuramente bisogno di completare un certo numero di CFU di tirocinio. Per i regolamenti attuali, il piano di studio prevede 11 CFU, corrispondenti a 275 ore di tirocinio da svolgere in modalità interna o esterna.
 
 Se scegli il tirocinio interno, potrai lavorare dall'Università o da casa. Purtroppo, gli spazi disponibili nel nostro Dipartimento sono limitati, quindi non possiamo offrire una postazione di lavoro agli studenti che svolgono la tesi con noi. Tuttavia, se hai bisogno di supporto tramite un meeting, possiamo incontrarci nella tranquillità del SeSa Lab.
 
-Prima di cominciare le attività di tirocinio, è fondamentale informarsi sull'intero processo burocratico. Se sei un tesista triennale, consulta la [guida ufficiale del Dipartimento di Informatica](https://corsi.unisa.it/informatica/attivita-e-servizi/tirocini). Dopo aver fissato il primo incontro con il tuo supervisore/relatore di tesi, puoi già avviare da subito la procedura del tirocinio. Dopodiché, sarà tua premura aggiornare il registro a mano a mano che svolgi le attività. Al termine delle attività potrai procedere al completamento, sempre secondo le modalità definite dalla segreteria.
+Prima di cominciare le attività di tirocinio, è fondamentale informarsi sull'intero processo burocratico. Se sei un tesista triennale, consulta la [guida ufficiale del Dipartimento di Informatica](https://corsi.unisa.it/informatica/attivita-e-servizi/tirocini).
 
 <ins>Fai attenzione</ins>! La richiesta di convalida del tirocinio va inviata **almeno 30 giorni prima** dell'appello di Laurea a cui vorresti prenotarti. Non dimenticarti di consegnare correttamente la documentazione alla segreteria per chiudere il tirocinio in tempo ed evitare sorprese, rischiando di far slittare la seduta di Laurea! 🙁
 
-La documentazione necessaria per convalidare il tirocinio consiste in un registro in cui dovrai rendicontare le ore che hai dedicato al lavoro. Ti suggeriamo di richiedere il registro al tuo relatore appena inizi le attività, così potrai prendere nota delle ore svolte man mano che procedi. Il registro è un foglio di calcolo (Excel) in cui vanno riportati gli orari di inizio e fine attività, insieme alla descrizione dell'attività svolta. Durante la compilazione del registro tieni presente che:
-- Ogni CFU prevede 25 ore di attività.
+#### Tirocinio Interno
+
+Dopo aver fissato il primo incontro con il tuo supervisore/relatore di tesi, puoi già avviare da subito la procedura del tirocinio. Come prima cosa, bisogna avviare il *progetto formativo* compilando il seguente [modulo](documents/FAC_SIMILE_Progetto_formativo_tirocinio_interno.docx). È importante fare attenzione alle seguenti parti:
+- Indica sempre un periodo LARGO per la durata del tuo tirocinio, anche se pensi di riuscire a concludere le attività prima del previsto (infatti, in caso di sforamento del periodo indicato bisogna avviare un nuovo progetto formativo che segue il precedente, allungano i tempi e creando fastidi)
+- Sii chiaro nella descrizione del lavoro da svolgere (Obiettivi del tirocinio). Ricorda che il lavoro di tirocinio NON è legato alla tesi di laurea, quindi scrivere "Tesi in NOME_ARGOMENTO" non è valido, mentre "Sviluppo di un classificatore per il riconoscimento di difetti in file Java facente uso di feature testuali e strutturali" è un nome valido. Va bene scrivere anche più di una frase per arrichire la descrizione del lavoro.
+
+Una volta compilato, invia il modulo (in PDF) al tuo relatore per ricevere la sua firma. Dopodiché, bisogna inviare il modulo alla segreteria. Questo può essere fatto sia direttamente dal tuo relatore sia da te stesso aprendo un ticket alla segreteria. Il tuo relatore ti dirà come puoi procedere.
+
+I lavori sono ufficialmente iniziati! È adesso **tua premura** aggiornare il [registro](documents/fac-simile-registro-tirocinio-interno.xls) a mano a mano che svolgi le attività. Una volta raggiunte le ore previste (ogni CFU pevedere 25 ore di attività), puoi procedere al completamento del tirocinio, sempre secondo le modalità definite dalla segreteria. Il registro è un foglio di calcolo (Excel) in cui vanno riportati gli orari di inizio e fine delle attività, insieme alla descrizione dell'attività svolta. Durante la compilazione del registro tieni presente che:
+- La somma di tutte le ore rendicontate dovrà corrispondere alle ore previste dal tuo tirocinio (CFUx25).
 - Non è possibile rendicontare attività al di fuori del periodo del tirocinio, ovvero dopo la data di fine tirocinio indicata nella richiesta iniziale.
 - Puoi rendicontare fino a un massimo di **6 ore** di lavoro al giorno.
 - Non puoi rendicontare attività prima delle 9:00 né dopo le 18:00.
 - Bisogna considerare una pausa pranzo di almeno un'ora, in genere tra le 13:00 e le 14:00.
 - Non bisogna andare in conflitto con altri impegni accademici, sia personali, del supervisore che del dipartimento, ad esempio le lezioni dei tuoi corsi, la partecipazione ad esami, meeting dipartimentali, festività, ecc.
-- Le attività di stesura della tesi NON sono coperte dal tirocinio, che invece sono coperte dai CFU allocati per la "Prova Finale" (un esame differente): puoi solo rendicontare attività pratiche strettamente legate al lavoro di ricerca (analisi, progettazione, implementazione e validazione del metodo o della tecnica).
+- Le attività di stesura della tesi **NON** sono coperte dal tirocinio, che invece sono coperte dai CFU allocati per la "Prova Finale" (un esame differente): puoi solo rendicontare attività pratiche strettamente legate al lavoro di ricerca (analisi, progettazione, implementazione e validazione del metodo o della tecnica).
 - Non puoi rendicontare meeting con il supervisore o altri suoi delegati.
-  Quando esaurisci le righe a disposizione, **duplica la pagina del foglio di calcolo**, non aggiungere righe alla tabella per evitare errori di formattazione in fase di generazione del PDF, che dovrà essere debitamente firmato da te e dal docente alla fine del tirocinio.
+- Quando esaurisci le righe a disposizione, **duplica la pagina del foglio di calcolo**, non aggiungere righe alla tabella per evitare errori di formattazione in fase di generazione del PDF, che dovrà essere debitamente firmato da te e dal docente alla fine del tirocinio.
 
-Per i tirocini esterni la procedura è simile a quella prevista per i tirocini interni, ma con alcune piccole differenze. Nella guida ufficiale riportata prima trovi tutte le indicazioni. Fai subito presente al tuo relatore, magari al vostro primo incontro, la necessità/volontà di voler svolgere un tirocinio esterno.
+Compilato il registro, invialo in formato PDF al tuo relatore per l'aggiunta delle sue firme. Similmente al modulo di avvio del progetto formativo, bisogna inviare il modulo alla segreteria, che può avvenire o tramite il tuo relatore o direttamente da te aprendo un ticket alla segreteria. Il tuo relatore ti dirà come puoi procedere.
 
-Se sei uno studente iscritto al **Corso di Laurea magistrale** sei fortunato, non dovrai fare niente di quanto riportato sopra. Tuttavia, se hai aggiunto al tuo piano di studi i 6 o 12 CFU di Tirocinio Esterno, si applicano le stesse regole applicabili agli studenti triennali.
+#### Tirocinio Esterno
+
+Per i tirocini esterni la procedura è molto simile a quella prevista per i tirocini interni, ma con alcune piccole differenze. Fai subito presente al tuo relatore al vostro primo incontro la necessità/volontà di voler svolgere un tirocinio esterno, che ti indicherà come procedere.
+
+Se sei uno studente iscritto al **Corso di Laurea Magistrale** sei fortunato, non dovrai fare niente di quanto riportato sopra. Tuttavia, se hai aggiunto al tuo piano di studi i 6 o 12 CFU di Tirocinio Esterno, si applicano le stesse regole applicabili agli studenti triennali.
 
 ### Laurea <a name="laurea"></a>
 
