@@ -44,7 +44,7 @@ Ormai l'hai capito, ***questa guida*** è la risorsa fondamentale che il SeSa La
 
 ## Burocrazia e Procedure Online <a name="burocrazia"></a>
 
-Il tirocinio e il lavoro di tesi in vista della laurea non sono la stessa cosa formalmente. Tuttavia, nei fatti, le due cose si fanno vertere sullo stesso argomento, per sfruttare il tempo e l'effort (misurati dai CFU) dedicati al tirocinio e produrre un lavoro di tesi più corposo e interessante.
+Il tirocinio e il lavoro di tesi in vista della laurea non sono la stessa cosa formalmente. Tuttavia, nei fatti, molti preferiscono coinciliare le due attività, per sfruttare il tempo e l'effort (misurati dai CFU) dedicati al tirocinio e produrre un lavoro di tesi più corposo e interessante.
 
 ### Tirocinio <a name="tirocinio"></a>
 
@@ -58,11 +58,11 @@ Prima di cominciare le attività di tirocinio, è fondamentale informarsi sull'i
 
 #### Tirocinio Interno
 
-Dopo aver fissato il primo incontro con il tuo supervisore/relatore di tesi, puoi già avviare da subito la procedura del tirocinio. Come prima cosa, bisogna avviare il *progetto formativo* compilando il seguente [modulo](documents/FAC_SIMILE_Progetto_formativo_tirocinio_interno.docx). È importante fare attenzione alle seguenti parti:
-- Indica sempre un periodo LARGO per la durata del tuo tirocinio, anche se pensi di riuscire a concludere le attività prima del previsto (infatti, in caso di sforamento del periodo indicato bisogna avviare un nuovo progetto formativo che segue il precedente, allungano i tempi e creando fastidi)
+Dopo aver fissato il primo incontro con il tuo supervisore/relatore di tesi, puoi già avviare da subito la procedura del tirocinio. Per farlo, assicurati di leggere con attenzione la guida menzionata precedentemente, che fornisce indicazioni e documentazione. Nel contesto del progetto formativo, è importante fare attenzione alle seguenti parti:
+- Indica un periodo non superiore a 179 giorni.
 - Sii chiaro nella descrizione del lavoro da svolgere (Obiettivi del tirocinio). Ricorda che il lavoro di tirocinio NON è legato alla tesi di laurea, quindi scrivere "Tesi in NOME_ARGOMENTO" non è valido, mentre "Sviluppo di un classificatore per il riconoscimento di difetti in file Java facente uso di feature testuali e strutturali" è un nome valido. Va bene scrivere anche più di una frase per arrichire la descrizione del lavoro.
 
-Una volta compilato, invia il modulo (in PDF) al tuo relatore per ricevere la sua firma. Dopodiché, bisogna inviare il modulo alla segreteria. Questo può essere fatto sia direttamente dal tuo relatore sia da te stesso aprendo un ticket alla segreteria. Il tuo relatore ti dirà come puoi procedere.
+Una volta compilato, invia il modulo (in PDF) al tuo relatore per ricevere la sua firma. Dopodiché, bisogna inviare il modulo alla segreteria. Questo deve essere fatto dal tuo relatore. 
 
 I lavori sono ufficialmente iniziati! È adesso **tua premura** aggiornare il [registro](documents/fac-simile-registro-tirocinio-interno.xls) a mano a mano che svolgi le attività. Una volta raggiunte le ore previste (ogni CFU pevedere 25 ore di attività), puoi procedere al completamento del tirocinio, sempre secondo le modalità definite dalla segreteria. Il registro è un foglio di calcolo (Excel) in cui vanno riportati gli orari di inizio e fine delle attività, insieme alla descrizione dell'attività svolta. Durante la compilazione del registro tieni presente che:
 - La somma di tutte le ore rendicontate dovrà corrispondere alle ore previste dal tuo tirocinio (CFUx25).
@@ -75,7 +75,9 @@ I lavori sono ufficialmente iniziati! È adesso **tua premura** aggiornare il [r
 - Non puoi rendicontare meeting con il supervisore o altri suoi delegati.
 - Quando esaurisci le righe a disposizione, **duplica la pagina del foglio di calcolo**, non aggiungere righe alla tabella per evitare errori di formattazione in fase di generazione del PDF, che dovrà essere debitamente firmato da te e dal docente alla fine del tirocinio.
 
-Compilato il registro, invialo in formato PDF al tuo relatore per l'aggiunta delle sue firme. Similmente al modulo di avvio del progetto formativo, bisogna inviare il modulo alla segreteria, che può avvenire o tramite il tuo relatore o direttamente da te aprendo un ticket alla segreteria. Il tuo relatore ti dirà come puoi procedere.
+Compilato il registro, invialo in formato PDF al tuo relatore per l'aggiunta delle sue firme. Insieme a questo, è necessario produrre una relazione di fine tirocino, ovvero una breve panoramica delle attività condotte e dei risultati ottenuti - orientativamente, va bene fare in modo che la relazione sia lunga una pagina o poco più. La relazione va firmata sia da te che dal tuo relatore. Infine, è necessario anche compilare il questionario valutativo del tirocinio (modulo disponibile alla pagina menzionata precedentemente). 
+
+Solo dopo aver compilato tutto il necessario, puoi inviare la relazione, il registro e il questionario di valutazione al tuo relatore, che procederà ad inviare tutto in segreteria e richiedere la verbalizzazione. 
 
 #### Tirocinio Esterno
 
