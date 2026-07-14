@@ -58,11 +58,13 @@ Prima di cominciare le attività di tirocinio, è fondamentale informarsi sull'i
 
 #### Tirocinio Interno
 
-Dopo aver fissato il primo incontro con il tuo supervisore/relatore di tesi, puoi già avviare da subito la procedura del tirocinio. Come prima cosa, bisogna avviare il *progetto formativo* compilando il seguente [modulo](documents/FAC_SIMILE_Progetto_formativo_tirocinio_interno.docx). È importante fare attenzione alle seguenti parti:
-- Indica sempre un periodo LARGO per la durata del tuo tirocinio, anche se pensi di riuscire a concludere le attività prima del previsto (infatti, in caso di sforamento del periodo indicato bisogna avviare un nuovo progetto formativo che segue il precedente, allungano i tempi e creando fastidi)
-- Sii chiaro nella descrizione del lavoro da svolgere (Obiettivi del tirocinio). Ricorda che il lavoro di tirocinio NON è legato alla tesi di laurea, quindi scrivere "Tesi in NOME_ARGOMENTO" non è valido, mentre "Sviluppo di un classificatore per il riconoscimento di difetti in file Java facente uso di feature testuali e strutturali" è un nome valido. Va bene scrivere anche più di una frase per arrichire la descrizione del lavoro.
+Dopo aver fissato il primo incontro con il tuo supervisore/relatore di tesi, puoi già avviare da subito la procedura del tirocinio.
 
-Una volta compilato, invia il modulo (in PDF) al tuo relatore per ricevere la sua firma. Dopodiché, bisogna inviare il modulo alla segreteria. Questo può essere fatto sia direttamente dal tuo relatore sia da te stesso aprendo un ticket alla segreteria. Il tuo relatore ti dirà come puoi procedere.
+Questo significherà innanzitutto effettuare la candidatura all'opportunità di tirocinio presso il laboratorio di riferimento: quindi, andare sull'area personale Esse3 e, dal menù a destra, navigare nella pagina 'Tirocini e Stage' per ricercare opportunità di tirocinio; il laboratorio di riferimento è ricercabile come 'Se@Sa'. Dopodiché, bisognerà compilare il [progetto formativo](documents/FAC_SIMILE_Progetto_formativo_tirocinio_interno.docx). Oltre a completarla con i dati anagrafici, bisognerà indicare il periodo di tirocinio: la segreteria suggerisce 5 mesi- bisogna inserire le date esatte di inizio e fine, sarà comunque possibile verbalizzare il tirocinio prima della fine di questi 5 mesi. Infine, bisognerà compilare la parte di obiettivi e modalità del tirocinio. Sii chiaro nella descrizione del lavoro da svolgere. Ricorda che il lavoro di tirocinio NON è legato alla tesi di laurea, quindi scrivere "Tesi in NOME_ARGOMENTO" non è valido, mentre "Sviluppo di un classificatore per il riconoscimento di difetti in file Java facente uso di feature testuali e strutturali" è un nome valido. Va bene scrivere anche più di una frase per arrichire la descrizione del lavoro.
+
+Infine, è necessaria la frequenza al corso base di 8 ore sulla prevenzione e sicurezza sul lavoro, gratuito e accessibile online al [link](https://unisa.sgslweb.com/sso) utilizzando le credenziali di Ateneo, (al termine del corso viene rilasciato un attestato relativo alla formazione svolta).
+
+Una volta eseguiti questi 3 step, invia il progetto formativo (in PDF) e l'attestato di partecipazione al corso sulla sicurezza al tuo relatore per ricevere la sua firma. Inoltre, conferma l'avvenuta candidatura per l'opportunità di tirocinio su Esse3. Sarà compito del relatore richiedere l'avvio del tirocinio alla segreteria.
 
 I lavori sono ufficialmente iniziati! È adesso **tua premura** aggiornare il [registro](documents/fac-simile-registro-tirocinio-interno.xls) a mano a mano che svolgi le attività. Una volta raggiunte le ore previste (ogni CFU pevedere 25 ore di attività), puoi procedere al completamento del tirocinio, sempre secondo le modalità definite dalla segreteria. Il registro è un foglio di calcolo (Excel) in cui vanno riportati gli orari di inizio e fine delle attività, insieme alla descrizione dell'attività svolta. Durante la compilazione del registro tieni presente che:
 - La somma di tutte le ore rendicontate dovrà corrispondere alle ore previste dal tuo tirocinio (CFUx25).
@@ -75,7 +77,9 @@ I lavori sono ufficialmente iniziati! È adesso **tua premura** aggiornare il [r
 - Non puoi rendicontare meeting con il supervisore o altri suoi delegati.
 - Quando esaurisci le righe a disposizione, **duplica la pagina del foglio di calcolo**, non aggiungere righe alla tabella per evitare errori di formattazione in fase di generazione del PDF, che dovrà essere debitamente firmato da te e dal docente alla fine del tirocinio.
 
-Compilato il registro, invialo in formato PDF al tuo relatore per l'aggiunta delle sue firme. Similmente al modulo di avvio del progetto formativo, bisogna inviare il modulo alla segreteria, che può avvenire o tramite il tuo relatore o direttamente da te aprendo un ticket alla segreteria. Il tuo relatore ti dirà come puoi procedere.
+Per concludere le attività di tirocinio, oltre al registro è inoltre necessario compilare anche il [questionario per la valutazione del tirocinio](documents/Tirocinio%20interno%20_questionario-per-la-valutazione-del-tirocinio.pdf) unitamente a compilare la relazione finale sulle attività di tirocinio, seguendo [questo esempio](documents/Relazione%20Finale%20sulle%20Attività%20di%20Tirocinio%20Curriculare.pdf).
+
+Dopo aver adempiuto a tali obblighi di rendicontazione, invia tutto al tuo relatore il quale si occuperà di richiedere la verbalizzazione in segreteria.
 
 #### Tirocinio Esterno
 
